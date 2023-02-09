@@ -1,0 +1,144 @@
+.svg1 {
+    position: absolute;
+}
+.svg2 {
+    /* position: absolute; */
+}
+
+.frameLogo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    height: 756px;
+    left: 1.53%;
+    right: 1.46%;
+    top: 3537.69px;
+    z-index: 1;
+
+}
+.frameLogo_vector2 {
+    position: absolute;
+    left: 0%;
+    right: 0.09%;
+    top: 0%;
+    bottom: 0.07%;
+
+}
+
+.frameLogo_vector {
+    position: absolute;
+    z-index: 10;
+
+}
+.frameLogo_vector1 {
+
+}
+.frameLogo_vector__3 {
+    position: absolute;
+    width: 1354px;
+    height: 716px;
+    left: calc(50% - 1354px/2 - 0.5px);
+    top: calc(50% - 716px/2);
+
+}
+.frameLogo_vector__01 {
+    position: absolute;
+    left: 91.86%;
+    right: 5.55%;
+    top: 83.97%;
+    bottom: 10.62%;
+}
+.frameLogo_vector__02 {
+    position: absolute;
+    left: 90.04%;
+    right: 3.35%;
+    top: 80.84%;
+    bottom: 6.64%;
+}
+.frameLogo_vector__03 {
+    position: absolute;
+    left: 91.01%;
+    right: 4.93%;
+    top: 13.92%;
+    bottom: 84.08%;
+    }
+.frameLogo_vector__04 {
+    position: absolute;
+    left: 91.82%;
+    right: 4.82%;
+    top: 11.5%;
+    bottom: 84.94%;
+}
+.frameLogo_vector__05 {
+    position: absolute;
+    left: 92.05%;
+    right: 4.87%;
+    top: 9.95%;
+    bottom: 85.27%;
+}
+.frameLogo_vector__06 {
+    position: absolute;
+    left: 90.04%;
+    right: 3.35%;
+    top: 6.55%;
+    bottom: 80.94%;
+}
+.frameLogo_vector__07 {
+    position: absolute;
+    left: 5.86%;
+    right: 91.38%;
+    top: 84.6%;
+    bottom: 10.56%;
+}
+.frameLogo_vector__08 {
+    position: absolute;
+    left: 3.86%;
+    right: 89.52%;
+    top: 80.84%;
+    bottom: 6.64%;
+}
+.frameLogo_vector__09 {
+    position: absolute;
+    left: 3.86%;
+    right: 89.52%;
+    top: 6.55%;
+    bottom: 80.94%;
+}
+.frameLogo_vector__10 {
+    position: absolute;
+    left: 7.27%;
+    right: 91.17%;
+    top: 12.26%;
+    bottom: 86.67%;
+}
+.frameLogo_vector__11 {
+    position: absolute;
+    left: 7.56%;
+    right: 91.94%;
+    top: 10.3%;
+    bottom: 87.09%;
+}
+.frameLogo_vector__12 {
+    position: absolute;
+    left: 6.09%;
+    right: 91.13%;
+    top: 10.09%;
+    bottom: 84.38%;
+}
+.frameLogo_vector__13 {
+    position: absolute;
+    left: 5.51%;
+    right: 92.65%;
+    top: 12.62%;
+    bottom: 84.33%;
+}
+
+.frameLogo_vector__14 {
+    position: absolute;
+    left: 0.04%;
+    right: 0.04%;
+    top: 0.07%;
+    bottom: 0.07%;
+}
+
